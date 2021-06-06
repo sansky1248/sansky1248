@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me @sansky1248
+- 📫 How to reach me my github id @sansky1248
 
 <!---
 sansky1248/sansky1248 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
